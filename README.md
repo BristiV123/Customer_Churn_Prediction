@@ -3,6 +3,10 @@
 ## 📌 Project Overview
 This project predicts whether a customer is likely to leave a company using Machine Learning.
 
+## 🚀 Live Demo
+
+[Try the Customer Churn Prediction App](https://customerchurnprediction-humw6a9azzrvhxd4xesgy7.streamlit.app/)
+
 ## 🎯 Objective
 - Analyze customer data
 - Predict customer churn
